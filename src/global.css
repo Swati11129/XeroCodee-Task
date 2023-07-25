@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Urbanist:wght@400;500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-urbanist: Urbanist;
+  --font-open-sans: "Open Sans";
+  --font-abeezee: ABeeZee;
+
+  /* font sizes */
+  --font-size-3xl: 22px;
+  --font-size-base: 16px;
+  --font-size-35xl: 54px;
+  --font-size-37xl: 56px;
+  --font-size-10xl: 29px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --light-100: #fff;
+  --color-mediumslateblue: #4f4ce5;
+  --color-gray: #181924;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-101xl: 120px;
+  --gap-13xl: 32px;
+
+  /* Paddings */
+  --padding-5xl: 24px;
+  --padding-13xl: 32px;
+  --padding-41xl: 60px;
+  --padding-mini: 15px;
+  --padding-11xl: 30px;
+
+  /* border radiuses */
+  --br-21xl: 40px;
+  --br-11xl: 30px;
+  --br-base: 16px;
+
+  /* Effects */
+  --medium-blue: 0px 5px 15px rgba(32, 91, 241, 0.2);
+}
